@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="weld">Welcome!</string>
+    <string name="ename">Please enter your name.</string>
+    <string name="hintname">Name</string>
+    <string name="startbutt">Start</string>
+    <string name="fz">Finish</string>
+    <string name="ysc">Your score</string>
+    <string name="usn">Username</string>
+    <string name="Cong">Congratulations!</string>
+    <string name="idesc">image</string>
+    <string name="res">Result</string>
+    <string name="flagques">What country does this flag belong to?</string>
+    <string name="subbut">Submit</string>
+    <string name="nextques">Go to next question</string>
+    <string name="outf">out of</string>
+</resources>

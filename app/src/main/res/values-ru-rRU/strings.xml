@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Игра</string>
+    <string name="weld">Добро пожаловать!</string>
+    <string name="ename">Введите ваше имя.</string>
+    <string name="hintname">Имя</string>
+    <string name="startbutt">Начать</string>
+    <string name="fz">Завершить</string>
+    <string name="ysc">Ваш счёт</string>
+    <string name="usn">Игрок</string>
+    <string name="Cong">Поздравляем!</string>
+    <string name="idesc">картинка</string>
+    <string name="res">Результат</string>
+    <string name="flagques">Какой стране принадлежит этот флаг?</string>
+    <string name="subbut">Подтвердить</string>
+    <string name="nextques">К следующему вопросу</string>
+    <string name="outf">из</string>
+</resources>
